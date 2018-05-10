@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fixgcode:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fixgcode_jar</output-path>
+    <root id="archive" name="fixgcode.jar">
+      <element id="module-output" name="fixgcode" />
+    </root>
+  </artifact>
+</component>
